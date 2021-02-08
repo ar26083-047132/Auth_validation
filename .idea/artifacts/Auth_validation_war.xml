@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Auth_validation:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Auth_validation</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Auth_validation-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Auth_validation:war exploded" />
+    </root>
+  </artifact>
+</component>
